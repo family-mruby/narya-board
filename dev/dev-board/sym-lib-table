@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Narya_Library")(type "KiCad")(uri "${KIPRJMOD}/kicad/Narya_Library.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "easyeda2kicad")(type "KiCad")(uri "C:/Users/kishi/Documents/Kicad/easyeda2kicad/easyeda2kicad.kicad_sym")(options "")(descr ""))
+)

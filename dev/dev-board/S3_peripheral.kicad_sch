@@ -1,0 +1,29 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "636158ba-7546-481f-a482-71b1c55b766a")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 38.1 34.29) (xy 43.18 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "541d8524-df8d-4480-a89c-10c54961b6ae")
+	)
+	(hierarchical_label "S3-GPIO"
+		(shape input)
+		(at 38.1 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fbc52dc8-103a-4ffa-8050-ef01a4a68120")
+	)
+)
