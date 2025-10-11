@@ -10189,6 +10189,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C150719"
+			(at 115.57 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6053988f-d198-49e3-9815-30f4a6f118d3")
 		)
@@ -10325,6 +10334,15 @@
 			)
 		)
 		(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
+			(at 257.81 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C82045"
 			(at 257.81 77.47 0)
 			(effects
 				(font
@@ -10612,6 +10630,15 @@
 			)
 		)
 		(property "Description" "1A Current limited power switch, single channel, output discharge, reverse blocking, SOT-23-5"
+			(at 77.47 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C353882"
 			(at 77.47 140.97 0)
 			(effects
 				(font
@@ -11731,6 +11758,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C2286"
+			(at 138.43 147.32 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fae58d3e-f1c1-4c29-8aaa-503f79273368")
 		)
@@ -11873,6 +11909,15 @@
 			)
 		)
 		(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
+			(at 201.93 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C82045"
 			(at 201.93 93.98 0)
 			(effects
 				(font
@@ -12652,6 +12697,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C82045"
+			(at 201.93 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4fdc371-d99b-4a28-80da-6527835b7e8d")
 		)
@@ -13211,6 +13265,15 @@
 			)
 		)
 		(property "Description" "50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23"
+			(at 257.81 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C82045"
 			(at 257.81 93.98 0)
 			(effects
 				(font

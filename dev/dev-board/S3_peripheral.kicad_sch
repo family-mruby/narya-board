@@ -6787,6 +6787,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C2297"
+			(at 130.81 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c3e1d9e-9bb4-486e-9110-d6b72b29d244")
 		)
@@ -6849,6 +6858,15 @@
 			)
 		)
 		(property "Description" "1A Current limited power switch, single channel, output discharge, reverse blocking, SOT-23-5"
+			(at 60.96 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C353882"
 			(at 60.96 36.83 0)
 			(effects
 				(font
