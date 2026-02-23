@@ -2323,16 +2323,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 171.45) (xy 116.84 171.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08a0f991-68a4-486c-8ce2-b01b6e57c46a")
-	)
-	(wire
-		(pts
 			(xy 168.91 86.36) (xy 176.53 86.36)
 		)
 		(stroke
@@ -2510,16 +2500,6 @@
 			(type default)
 		)
 		(uuid "2df3985f-ec78-4752-9cc5-3e11423e20a0")
-	)
-	(wire
-		(pts
-			(xy 113.03 168.91) (xy 116.84 168.91)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e4241ac-3bc5-43d6-ac98-b59088c07907")
 	)
 	(wire
 		(pts
@@ -2943,16 +2923,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 163.83) (xy 116.84 163.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76403afd-e67e-4581-92dd-6d016c40cc56")
-	)
-	(wire
-		(pts
 			(xy 73.66 163.83) (xy 86.36 163.83)
 		)
 		(stroke
@@ -3040,16 +3010,6 @@
 			(type default)
 		)
 		(uuid "84e4cfd2-11e1-45c0-b7a9-af6737287713")
-	)
-	(wire
-		(pts
-			(xy 113.03 166.37) (xy 116.84 166.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a52a208-a31e-479a-8603-e2784724e156")
 	)
 	(wire
 		(pts
@@ -3645,7 +3605,7 @@
 	)
 	(hierarchical_label "IO35"
 		(shape output)
-		(at 116.84 171.45 0)
+		(at 113.03 163.83 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3678,7 +3638,7 @@
 	)
 	(hierarchical_label "IO39"
 		(shape output)
-		(at 116.84 166.37 0)
+		(at 113.03 168.91 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3689,7 +3649,7 @@
 	)
 	(hierarchical_label "IO36"
 		(shape output)
-		(at 116.84 163.83 0)
+		(at 113.03 171.45 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3711,7 +3671,7 @@
 	)
 	(hierarchical_label "IO34"
 		(shape output)
-		(at 116.84 168.91 0)
+		(at 113.03 166.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4168,7 +4128,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 57.15 132.08 0)
 			(effects
 				(font
@@ -5564,7 +5524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_2x10_P1.00mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical"
 			(at 105.41 171.45 0)
 			(effects
 				(font
