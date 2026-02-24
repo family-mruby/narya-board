@@ -10440,12 +10440,12 @@
 		(at 186.69 101.6 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "20ebbccd-d40a-4506-aa5d-2836278df77c")
-		(property "Reference" "TP3"
+		(property "Reference" "RX1"
 			(at 189.23 103.6319 0)
 			(effects
 				(font
@@ -10496,7 +10496,7 @@
 		(instances
 			(project ""
 				(path "/211ed859-fe40-48f4-82b7-6e05ddc77423"
-					(reference "TP3")
+					(reference "RX1")
 					(unit 1)
 				)
 			)
@@ -11028,12 +11028,12 @@
 		(at 207.01 90.17 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2bc99787-7964-457f-9d0f-e73a4eb4d6b7")
-		(property "Reference" "TP2"
+		(property "Reference" "TX2"
 			(at 209.55 92.2019 0)
 			(effects
 				(font
@@ -11084,7 +11084,7 @@
 		(instances
 			(project ""
 				(path "/211ed859-fe40-48f4-82b7-6e05ddc77423"
-					(reference "TP2")
+					(reference "TX2")
 					(unit 1)
 				)
 			)
@@ -13164,12 +13164,12 @@
 		(at 207.01 101.6 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "7fcc1efd-c502-4910-a8d6-c7e6c1f299bc")
-		(property "Reference" "TP4"
+		(property "Reference" "RX2"
 			(at 209.55 103.6319 0)
 			(effects
 				(font
@@ -13220,7 +13220,7 @@
 		(instances
 			(project ""
 				(path "/211ed859-fe40-48f4-82b7-6e05ddc77423"
-					(reference "TP4")
+					(reference "RX2")
 					(unit 1)
 				)
 			)
@@ -13571,12 +13571,12 @@
 		(at 186.69 90.17 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "8b588b9c-6acd-4dbb-a712-8f48613fd7c9")
-		(property "Reference" "TP1"
+		(property "Reference" "TX1"
 			(at 189.23 92.2019 0)
 			(effects
 				(font
@@ -13627,7 +13627,7 @@
 		(instances
 			(project ""
 				(path "/211ed859-fe40-48f4-82b7-6e05ddc77423"
-					(reference "TP1")
+					(reference "TX1")
 					(unit 1)
 				)
 			)

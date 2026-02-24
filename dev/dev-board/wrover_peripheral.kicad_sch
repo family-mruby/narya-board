@@ -4105,9 +4105,9 @@
 		(at 52.07 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "2723a341-c2e7-4f78-b641-1650f9534b51")
 		(property "Reference" "TP5"
@@ -5506,7 +5506,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9e6d6be7-107a-4c6c-af3b-3336fc4fc013")
 		(property "Reference" "J5"
 			(at 106.68 154.94 0)
