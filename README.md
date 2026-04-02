@@ -55,9 +55,9 @@ narya-board/
 
 ## History
 
-### v3.0 dev R1
+### v3.0 dev R3
 
-![3D Board View](doc/board_v3.0_dev.png)
+![3D Board View](doc/board_v3.0_dev_r3.png)
 
 ## License
 
