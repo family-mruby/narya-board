@@ -9386,7 +9386,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 53.34 87.63 0)
 			(effects
 				(font
@@ -9422,7 +9422,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C2297"
+		(property "LCSC Part" "C2286"
 			(at 53.34 87.63 0)
 			(effects
 				(font
